@@ -1,2 +1,2 @@
 # JupiterOffice
-Jupiter Office is the office program for JOS Its The First Office Program BY Jupiter Inc.
+Jupiter Office is the office program for JOS Its The First Office Program By Jupiter Inc.
