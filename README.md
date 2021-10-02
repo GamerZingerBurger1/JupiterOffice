@@ -1,2 +1,2 @@
 # JupiterOffice
-Jupiter Office
+Jupiter Office is the office program for JOS
